@@ -920,7 +920,11 @@
         ]
       },
       "brand": "Samsung",
-      "deviceName": "Samsung Galaxy S25 Ultra 5G"
+      "name": "Galaxy S25 Ultra 5G",
+      "averageRating": 4.9,
+      "image": "https://econtent.o2.co.uk/o/econtent/media/get/3b2f8561-0e63-482a-82ca-44d98b894306",
+      "previewImage": "https://econtent.o2.co.uk/o/econtent/media/get/3b2f8561-0e63-482a-82ca-44d98b894306?imagePreview=true",
+      "averageOverallRating": 4.9
     },
     {
       "limit": 10,
@@ -1826,7 +1830,11 @@
         ]
       },
       "brand": "Samsung",
-      "deviceName": "Samsung Galaxy S24 Ultra 5G"
+      "name": "Galaxy S24 Ultra 5G",
+      "averageRating": 4.7,
+      "image": "https://econtent.o2.co.uk/o/econtent/media/get/9ba5b86b-cddf-459b-881a-ffd530ebc8c1",
+      "previewImage": "https://econtent.o2.co.uk/o/econtent/media/get/9ba5b86b-cddf-459b-881a-ffd530ebc8c1?imagePreview=true",
+      "averageOverallRating": 4.7
     }
   ]
 }
