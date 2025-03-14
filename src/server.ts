@@ -37,7 +37,7 @@ const paginate = (data: any[], page: number, limit: number) => {
 };
 
 // API 1: Get Device Reviews
-fastify.get("/getDeviceReviews", async (_, reply) => {
+fastify.get("/getProducts", async (_, reply) => {
   try {
     if (USE_MOCK) {
       return reply.send(loadMockData("devices.json"));
@@ -78,7 +78,7 @@ fastify.get("/getFeaturedReviews", async (request, reply) => {
 });
 
 // API 3: Get Device Reviews with Images by SKU Code (With Pagination)
-fastify.get("/getDeviceReviewsWithImages", async (request, reply) => {
+fastify.get("/getReviewsWithImages", async (request, reply) => {
   try {
     const {
       skuCode,
@@ -130,7 +130,7 @@ fastify.get("/getReviewList", async (request, reply) => {
 });
 
 // Start Server
-const PORT = process.env.PORT ? parseInt(process.env.PORT) : 3001;
+const PORT = process.env.PORT ? parseInt(process.env.PORT) : 3003;
 fastify.listen({ port: PORT, host: "0.0.0.0" }, (err, address) => {
   if (err) {
     console.error("Error starting server:", err);
