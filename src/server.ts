@@ -88,7 +88,7 @@ fastify.get("/getDeviceReviewsWithImages", async (request, reply) => {
     if (!skuCode) return reply.status(400).send({ error: "Missing skuCode" });
 
     if (USE_MOCK) {
-      const data = loadMockData("imageReviews.json").filter(
+      const data = loadMockData("imageReviews.json").imageReviews.filter(
         (item: any) => item.skuCode === skuCode
       );
       return reply.send(paginate(data, parseInt(page), parseInt(limit)));
@@ -114,7 +114,7 @@ fastify.get("/getReviewList", async (request, reply) => {
     if (!skuCode) return reply.status(400).send({ error: "Missing skuCode" });
 
     if (USE_MOCK) {
-      const data = loadMockData("reviewList.json").filter(
+      const data = loadMockData("reviewList.json").reviews.filter(
         (item: any) => item.skuCode === skuCode
       );
       return reply.send(paginate(data, parseInt(page), parseInt(limit)));
