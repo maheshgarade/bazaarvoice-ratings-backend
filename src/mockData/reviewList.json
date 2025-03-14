@@ -1,0 +1,431 @@
+{
+  "reviews": [
+    {
+      "skuCode": "1SAP312LUN",
+      "limit": 10,
+      "offset": 0,
+      "totalReviewsCount": 21558,
+      "overallRatingRange": 5,
+      "reviews": [
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240661025,
+          "userName": "SiClone82",
+          "lastModificationTime": "today",
+          "title": "Classy All-Rounder",
+          "cardText": "Great camera, very quick performance and a lot of useful features.  I love the drawing assist and programmable finger print unlock in particular",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240657983,
+          "userName": "Bonju",
+          "lastModificationTime": "yesterday",
+          "title": "Must buy!",
+          "cardText": "[This review was collected as part of a promotion.] Amazing look and feel. The phone looks amazing, the UI7 makes it even more slicker",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240657779,
+          "userName": "Ali07",
+          "lastModificationTime": "yesterday",
+          "title": "One",
+          "cardText": "There are too many improvements in s25 ultra but I like two things most design and second thing was ai image editing.",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 1,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240653069,
+          "userName": "Jossy123",
+          "lastModificationTime": "yesterday",
+          "title": "Gift",
+          "cardText": "I am giving review because of the gift nothing else",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240652305,
+          "userName": "Bomanzuk",
+          "lastModificationTime": "yesterday",
+          "title": "S25 ultra",
+          "cardText": "My 3rd Ultra model after s20u, s22u. Absolutely amazing, I really like shape of the phone now, amazing screen. Functionality,  and the Ai features when using the phone, especially helping write the emails in different ways. Pictures at night are really on another level. Best camera so far at night and day time. Im really surprised how long battery can last. \n\nBest phone for me so far. Higly recommend",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 1,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "",
+          "secondaryRatings": [
+            {
+              "name": "ScreenQuality",
+              "value": 1.0,
+              "valueRange": 5
+            },
+            {
+              "name": "BatteryLife",
+              "value": 1.0,
+              "valueRange": 5
+            },
+            {
+              "name": "Camera",
+              "value": 1.0,
+              "valueRange": 5
+            },
+            {
+              "name": "EaseOfUse",
+              "value": 1.0,
+              "valueRange": 5
+            }
+          ],
+          "photos": [],
+          "id": 1182422027,
+          "userName": "Anonymous",
+          "lastModificationTime": "yesterday",
+          "title": "Poor phone",
+          "cardText": "Really poor phone with woeful baytery life, o2 add lots of extras unlawfully that you dont want.",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 1,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240647959,
+          "userName": "janaka49x",
+          "lastModificationTime": "yesterday",
+          "title": "smart view or LED cove needed",
+          "cardText": "Really disappointed Samsung haven’t release smart view or LED cover case for 25 series , even 3rd party covers not working properly . as a Samsung user over 10 years they ad and remove very imported features time to time.\nI am addicted with smart view cover i have to go back to my old phone ..this is pretty annoying\nwith the cover auto lock and auto unlock features very importent",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240646577,
+          "userName": "Tidy70",
+          "lastModificationTime": "yesterday",
+          "title": "Amazing",
+          "cardText": "Battery camera design display performance-amazing!",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240646393,
+          "userName": "Rennanb",
+          "lastModificationTime": "yesterday",
+          "title": "Enough memory",
+          "cardText": "Fast, great screen, able to do lots more, enough memory for all tasks.",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240645738,
+          "userName": "Daz08",
+          "lastModificationTime": "yesterday",
+          "title": "Best phone out there!",
+          "cardText": "Camera, AI on photos, easy of use, flexibility to customise settings,",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        }
+      ],
+      "ratingDistributions": [
+        {
+          "ratingValue": 1,
+          "count": 83
+        },
+        {
+          "ratingValue": 2,
+          "count": 25
+        },
+        {
+          "ratingValue": 3,
+          "count": 157
+        },
+        {
+          "ratingValue": 4,
+          "count": 1400
+        },
+        {
+          "ratingValue": 5,
+          "count": 19893
+        }
+      ],
+      "secondaryAverageRatings": [
+        {
+          "name": "Camera",
+          "value": 4.867283950617284,
+          "valueRange": 5
+        },
+        {
+          "name": "ScreenQuality",
+          "value": 4.899053627760252,
+          "valueRange": 5
+        },
+        {
+          "name": "BatteryLife",
+          "value": 4.716012084592145,
+          "valueRange": 5
+        },
+        {
+          "name": "EaseOfUse",
+          "value": 4.8354430379746836,
+          "valueRange": 5
+        }
+      ],
+      "hasErrors": false
+    },
+    {
+      "skuCode": "1SAE32BN",
+      "limit": 10,
+      "offset": 0,
+      "totalReviewsCount": 10892,
+      "overallRatingRange": 5,
+      "reviews": [
+        {
+          "rating": 4,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240636721,
+          "userName": "Rachael F",
+          "lastModificationTime": "2 days ago",
+          "title": "I love the big screen",
+          "cardText": "[This review was collected as part of a promotion.] I love the big screen, high resolution main camera and the quality of picture . Great value for money as it meets all my phone needs",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240637107,
+          "userName": "ABDULLAH ZAMAN",
+          "lastModificationTime": "2 days ago",
+          "title": "Samsung S25 Review",
+          "cardText": "Very quick delivery - packaging is good. Finally I don’t have to think of Xonus or Snapdragon . Anti-glare screen is a game changer",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 1182446435,
+          "userName": "Anonymous",
+          "lastModificationTime": "4 days ago",
+          "cardText": "",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 1182418419,
+          "userName": "Anonymous",
+          "lastModificationTime": "5 days ago",
+          "cardText": "",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "",
+          "secondaryRatings": [
+            {
+              "name": "ScreenQuality",
+              "value": 5.0,
+              "valueRange": 5
+            },
+            {
+              "name": "BatteryLife",
+              "value": 5.0,
+              "valueRange": 5
+            },
+            {
+              "name": "Camera",
+              "value": 5.0,
+              "valueRange": 5
+            },
+            {
+              "name": "EaseOfUse",
+              "value": 5.0,
+              "valueRange": 5
+            }
+          ],
+          "photos": [],
+          "id": 1182413863,
+          "userName": "Anonymous",
+          "lastModificationTime": "5 days ago",
+          "title": "Best phone I\u0027ve ever had",
+          "cardText": "If you\u0027re thinking about it... do it ! This phone is incredible id the s24 and even the difference between those two !!! Camera is amazing!",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 1182373409,
+          "userName": "Anonymous",
+          "lastModificationTime": "6 days ago",
+          "cardText": "",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240545208,
+          "userName": "Marie2",
+          "lastModificationTime": "6 days ago",
+          "title": "Good features",
+          "cardText": "All the features on this device is very good very impress with the camera and performance",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240540706,
+          "userName": "Timmi",
+          "lastModificationTime": "6 days ago",
+          "title": "Perfect",
+          "cardText": "I can actually play gamecube games on it. Woo hoo!",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240539525,
+          "userName": "Khalid Thalho",
+          "lastModificationTime": "6 days ago",
+          "title": "Samsung S25 ultra",
+          "cardText": "Love my samsung s25 ultra, the AI is the best part of the phone \nUnder the hood, the Galaxy S25 Ultra is powered by the Snapdragon 8 Elite processor, delivering exceptional performance across applications. This robust chipset ensures that multitasking is fluid and responsive, catering to both productivity needs and entertainment desires. The integration of Galaxy AI further elevates the user experience, offering intelligent suggestions and automations that adapt to individual usage patterns, making daily interactions more intuitive and efficient.",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        },
+        {
+          "rating": 5,
+          "ratingRange": 5,
+          "originallyPostedByLabel": "Samsung UK",
+          "secondaryRatings": [],
+          "photos": [],
+          "id": 240511862,
+          "userName": "Pavandeep",
+          "lastModificationTime": "8 days ago",
+          "title": "S25 ultra",
+          "cardText": "Purchased a s25 ultra and oh my god!!! Don\u0027t have any words for this! Such an amazing phone!!",
+          "negativeFeedbackCount": 0,
+          "positiveFeedbackCount": 0
+        }
+      ],
+      "ratingDistributions": [
+        {
+          "ratingValue": 1,
+          "count": 282
+        },
+        {
+          "ratingValue": 2,
+          "count": 110
+        },
+        {
+          "ratingValue": 3,
+          "count": 242
+        },
+        {
+          "ratingValue": 4,
+          "count": 863
+        },
+        {
+          "ratingValue": 5,
+          "count": 9395
+        }
+      ],
+      "secondaryAverageRatings": [
+        {
+          "name": "BatteryLife",
+          "value": 4.702355460385439,
+          "valueRange": 5
+        },
+        {
+          "name": "ScreenQuality",
+          "value": 4.881847475832438,
+          "valueRange": 5
+        },
+        {
+          "name": "Camera",
+          "value": 4.857900318133616,
+          "valueRange": 5
+        },
+        {
+          "name": "EaseOfUse",
+          "value": 4.774331550802139,
+          "valueRange": 5
+        }
+      ],
+      "hasErrors": false
+    }
+  ]
+}

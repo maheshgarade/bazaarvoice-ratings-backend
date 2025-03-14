@@ -1,0 +1,1401 @@
+{
+  "imageReviews": [
+    {
+      "skuCode": "1SAP312LUN",
+      "offset": 10,
+      "imageReviews": [
+        {
+          "photo": {
+            "id": "1014040773",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/301e90dd-db52-5e4e-88e6-dbbc57b52cc8",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/1a6e9e88-e01e-55b7-8045-a7aed40140f4",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/d71bca01-bf74-5612-884a-9e4186161213"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 4.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1182372724,
+            "userName": "Scott Ridley",
+            "lastModificationTime": "6 days ago",
+            "title": "A good alternative to iphones.",
+            "cardText": "I have always had an iphone, and wasn\u0027t sure if i should ever try anything else as all other Androids in my opinion has a rubbish interface. But i was getting bored of using  iPhone, probably because i have always had them,  i thought i would give it a go as i am on o2 switch up and if i didn\u0027t like it i would just swap back to an iphone.  I have had the Samsung for a few weeks now and surprisingly i am enjoy it! The screen quality the customisation the build of it i think is really good! I would say the only down side i have found is that if you use it all the time you will need to charge it  after a good day\u0027s usage, and the camera is very slightly not as good as the iphone 16 pro max, but on the upside it does charge fairly quickly. It is worth giving it ago if you want something else than iphones. But it all depends on what you are looking for in your choice of a phone.",
+            "negativeFeedbackCount": 1,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1014040774",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/d14f8898-1a58-570b-bfe1-bdaa59e08544",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/3dd00439-0e6c-55f9-af9e-55b2b737a088",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/c3edc936-4dce-59e5-a70e-2732b23f2df2"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 4.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1182372724,
+            "userName": "Scott Ridley",
+            "lastModificationTime": "6 days ago",
+            "title": "A good alternative to iphones.",
+            "cardText": "I have always had an iphone, and wasn\u0027t sure if i should ever try anything else as all other Androids in my opinion has a rubbish interface. But i was getting bored of using  iPhone, probably because i have always had them,  i thought i would give it a go as i am on o2 switch up and if i didn\u0027t like it i would just swap back to an iphone.  I have had the Samsung for a few weeks now and surprisingly i am enjoy it! The screen quality the customisation the build of it i think is really good! I would say the only down side i have found is that if you use it all the time you will need to charge it  after a good day\u0027s usage, and the camera is very slightly not as good as the iphone 16 pro max, but on the upside it does charge fairly quickly. It is worth giving it ago if you want something else than iphones. But it all depends on what you are looking for in your choice of a phone.",
+            "negativeFeedbackCount": 1,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1014040775",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/b2e5dc00-7234-5ce4-860b-c3d1df9c53ea",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/c5a2f51d-3e57-5c45-bf1d-5c81968db2ec",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/dfae1941-a77f-5f10-898b-4d62c41f3519"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 4.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1182372724,
+            "userName": "Scott Ridley",
+            "lastModificationTime": "6 days ago",
+            "title": "A good alternative to iphones.",
+            "cardText": "I have always had an iphone, and wasn\u0027t sure if i should ever try anything else as all other Androids in my opinion has a rubbish interface. But i was getting bored of using  iPhone, probably because i have always had them,  i thought i would give it a go as i am on o2 switch up and if i didn\u0027t like it i would just swap back to an iphone.  I have had the Samsung for a few weeks now and surprisingly i am enjoy it! The screen quality the customisation the build of it i think is really good! I would say the only down side i have found is that if you use it all the time you will need to charge it  after a good day\u0027s usage, and the camera is very slightly not as good as the iphone 16 pro max, but on the upside it does charge fairly quickly. It is worth giving it ago if you want something else than iphones. But it all depends on what you are looking for in your choice of a phone.",
+            "negativeFeedbackCount": 1,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1014037417",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/bc516ed9-a7b9-5b0c-a6a5-e944d6964f29",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/6d2beae8-0928-524d-899b-5dd4a4f699a1",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/20aaec98-a97c-516e-b866-eb1c6ca3eb1b"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1182354656,
+            "userName": "Tibin Thomas",
+            "lastModificationTime": "6 days ago",
+            "title": "Amazing Phone",
+            "cardText": "Buying the Samsung Galaxy S25 Ultra from O2 was a smooth and hassle-free experience. The phone itself is incredible—stunning display, powerful performance, and a battery that easily lasts all day. The camera delivers excellent results, and the overall experience feels premium. O2’s deals made it even better, with great value and fast delivery. Highly recommend both the S25 Ultra and purchasing from O2.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1014037418",
+            "caption": "Loving my new Galaxy S25 Ultra! Smooth, powerful, and stunning!",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/64f89721-b213-5330-b5e9-3413766e2ed4",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/6cf4c685-a9c5-552a-912d-5513332fae8c",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/0cf41320-6190-5a8b-a23d-2c65440b7ecf"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1182354656,
+            "userName": "Tibin Thomas",
+            "lastModificationTime": "6 days ago",
+            "title": "Amazing Phone",
+            "cardText": "Buying the Samsung Galaxy S25 Ultra from O2 was a smooth and hassle-free experience. The phone itself is incredible—stunning display, powerful performance, and a battery that easily lasts all day. The camera delivers excellent results, and the overall experience feels premium. O2’s deals made it even better, with great value and fast delivery. Highly recommend both the S25 Ultra and purchasing from O2.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013982874",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/1457031f-6d86-573d-bb64-8811eaa98b08",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/c8503477-1711-5ef1-8325-8c2879cfcad9",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/802d7f24-e2f1-52b6-b4c2-46608dbaded1"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1182104040,
+            "userName": "Rene",
+            "lastModificationTime": "11 days ago",
+            "title": "Galaxy S25 Ultra",
+            "cardText": "Love the phone, it looks good. The camera is excellent and the facilty to take out or add objects or people in a photo is really useful",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013919508",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/5b4e0772-c9ad-5b58-b774-d684f61fb70c",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/195ab53a-d8ef-559c-95d1-fa07e47e7915",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/edc20bb2-843c-5d73-a380-1741c7bab94b"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1181328419,
+            "userName": "Kevin",
+            "lastModificationTime": "a month ago",
+            "title": "Good phone",
+            "cardText": "Went from s24 ultra to S25 ultra, no major difference for what I use it for, feels better and lighter, still a great phone, the tarrif price been cheaper made me upgrade but no regrets 😀",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013917676",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/32e2efc9-a4ab-5a57-a137-588f5fed2f74",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/77534225-555a-5bf6-a12f-14b74521a9fd",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/06f86586-031c-57b9-be5c-f5f929296acc"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1181319466,
+            "userName": "Darwin",
+            "lastModificationTime": "a month ago",
+            "title": "Samsung S25 ultra",
+            "cardText": "Good quality and good deal for the device and tarriff",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013843743",
+            "caption": "Very nice phone",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/8b5e3062-2cde-5001-9ce2-5faccd6000b1",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/208de0cc-0238-5492-8b22-fafc035b7ffc",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/71a3c8c4-08d7-5d9f-bb81-51cb81b08794"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180955516,
+            "userName": "Sandra",
+            "lastModificationTime": "a month ago",
+            "title": "Samsung galaxy ultra 25",
+            "cardText": "I love it does everything its advertised it\u0027s a great phone I would recommend this phone who wants to upgrade from a s23 but it\u0027s very similar to the s24 just a few extras I live my phone",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013842526",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/f77ab02d-5f01-56fd-9f75-ec9e09a4351b",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/56c1d81b-85fd-52f9-ae4b-c62ac25f4a95",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/7424e264-cd8f-558e-b0e8-45e8d20b8efd"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180947706,
+            "userName": "Ricky Perrin",
+            "lastModificationTime": "a month ago",
+            "title": "S25 ultra",
+            "cardText": "Being a photographer i can truly say that the S25 ultra is an absolutely amazing bit of kit I\u0027d highly recommend this phone to anyone",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013842527",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/01156a95-e887-5589-a5d9-f7031c868291",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/2fc31ef7-9c47-50d5-b8c6-3beba07e9b27",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/625457ab-9d78-52f7-a3c2-992f60e0ea34"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180947706,
+            "userName": "Ricky Perrin",
+            "lastModificationTime": "a month ago",
+            "title": "S25 ultra",
+            "cardText": "Being a photographer i can truly say that the S25 ultra is an absolutely amazing bit of kit I\u0027d highly recommend this phone to anyone",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013833553",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/d1ac0103-b94b-55ce-bdf2-0749da2f23bb",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/842feeb0-7ef4-530e-b893-1a14282a7876",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/d04b01cc-d9c8-5519-b0ae-df0662d18d38"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180897952,
+            "userName": "Wesley",
+            "lastModificationTime": "a month ago",
+            "title": "Great samsung",
+            "cardText": "Absolutely outstanding for samsung to produce such a fantastic device well done samsung",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013833554",
+            "caption": "Titanium black",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/e12841c2-bfab-530b-90e2-48f7e76f490a",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/b8418976-1835-5fdd-86f3-10705ac77a17",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/7c6379a5-31d7-588e-ae33-3a8c275e4826"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180897952,
+            "userName": "Wesley",
+            "lastModificationTime": "a month ago",
+            "title": "Great samsung",
+            "cardText": "Absolutely outstanding for samsung to produce such a fantastic device well done samsung",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013824279",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/7d786e69-bb82-51c8-bd03-dcc7eaf69897",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/e886de22-3198-5efc-ac57-30f143dbeffb",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/2b9295fc-6082-57de-9021-02d65d04cb72"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 4.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180848449,
+            "userName": "Mrt4sure",
+            "lastModificationTime": "a month ago",
+            "title": "If it\u0027s not Samsung products then it can never be",
+            "cardText": "Galaxy S25 ultra not even S series but all samsung products are the best among the best",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013823285",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/4041b9c1-39d3-5235-9c25-c97663007165",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/59592173-2bb7-5a10-89c8-263db7128dcf",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/2d8ac8e5-b438-5443-bdd2-28df95cd90fb"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180842093,
+            "userName": "Dave",
+            "lastModificationTime": "a month ago",
+            "title": "Well worth the upgrade",
+            "cardText": "I had the s24 ultra upgraded to the s25 ultra.This phone is so much smoother and easier to use feels lighter and a bit more rounded at the edges",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013823286",
+            "caption": "Fitted with a nice case",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/cbd8272a-dce1-5b6e-84c5-54caee4200f0",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/46c6253f-a8a8-56d4-b130-addcb861c635",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/2fbc4f66-fc3b-548e-bb8f-23f296695205"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180842093,
+            "userName": "Dave",
+            "lastModificationTime": "a month ago",
+            "title": "Well worth the upgrade",
+            "cardText": "I had the s24 ultra upgraded to the s25 ultra.This phone is so much smoother and easier to use feels lighter and a bit more rounded at the edges",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        }
+      ]
+    },
+    {
+      "skuCode": "1SAE32BN",
+      "offset": 10,
+      "imageReviews": [
+        {
+          "photo": {
+            "id": "1013823308",
+            "caption": "Camera is amazing",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/513daae4-21a7-54fe-b8d9-edba5a53be0a",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/ea72b3a0-5f9f-59a5-8c00-7858c30db422",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/8dc09dbe-3f32-59c8-a99f-b9ebdc457070"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1180842318,
+            "userName": "Dave",
+            "lastModificationTime": "a month ago",
+            "title": "Go the next level",
+            "cardText": "Lovely phone will do every thing you want it to with the pen you can scribble notes and it turns into text",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013471642",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/c4c6495f-6187-573f-aefe-8eafbf9623d3",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/01fd9b17-c643-5a18-b334-17ad3c592e0a",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/9e024de9-c383-5086-8ea5-680fb8725136"
+            }
+          },
+          "review": {
+            "rating": 4,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1178864174,
+            "userName": "Alba",
+            "lastModificationTime": "a month ago",
+            "title": "Great Mobile S24",
+            "cardText": "I like it. Is a well manufactured, aswell using the google map everything is very clear. Because the phone camera have a very good resolution and have a lots of memory.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013471643",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/6b6682f3-37b9-54fe-86f8-9a3c00505cc0",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/59afc231-7626-5e08-9ae5-d281c6ccc9ab",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/af9245a4-d0ee-5523-bd7a-8146541737f9"
+            }
+          },
+          "review": {
+            "rating": 4,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1178864174,
+            "userName": "Alba",
+            "lastModificationTime": "a month ago",
+            "title": "Great Mobile S24",
+            "cardText": "I like it. Is a well manufactured, aswell using the google map everything is very clear. Because the phone camera have a very good resolution and have a lots of memory.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013471644",
+            "caption": "Very shaped photos",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/b7989840-81ef-50f0-8532-8172ea2f8485",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/bab2a09f-3e01-53cd-ab4d-859112a48390",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/4e36c71a-0cb5-509e-a476-6a733413a46b"
+            }
+          },
+          "review": {
+            "rating": 4,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1178864174,
+            "userName": "Alba",
+            "lastModificationTime": "a month ago",
+            "title": "Great Mobile S24",
+            "cardText": "I like it. Is a well manufactured, aswell using the google map everything is very clear. Because the phone camera have a very good resolution and have a lots of memory.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013453783",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/82e80c08-6297-5ff1-bea3-05d89240efd4",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/f5e0e2cb-c495-5721-b6f1-07a65fa8fc04",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/fd28dad4-55f9-5adc-aa19-6dfe54d8e711"
+            }
+          },
+          "review": {
+            "rating": 4,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 4.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1178758177,
+            "userName": "Dimi",
+            "lastModificationTime": "a month ago",
+            "title": "S23 with a bettwe camera than S24 Ultra.",
+            "cardText": "The camera of the S23 Ultra is better. Hope the S25 Ultra that is fixed.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013388097",
+            "caption": "Slick",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/06227f47-2dd3-59a6-a735-33fdef3ed565",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/285157db-4efc-5d6a-85f3-3383331074a1",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/94930fa2-d261-54e9-bc41-0611704d09fb"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1178337511,
+            "userName": "Led073",
+            "lastModificationTime": "a month ago",
+            "title": "Bit the bullet on the S24",
+            "cardText": "I\u0027ve only had my S24 Ultra 4 days, but I\u0027m very impressed so far and have made sure to find out some hints and tips to use my new phone more productively. The screen is amazing, very colourful and has a high resolution. My last device was the Galaxy fold 3 i realy liked it but it\u0027s time for an upgrade after 3 years. I didnt want another folding phone not because they are bad but i wanted the better camera set up as I\u0027ve got into photography more over the past 18 months, i have a nice camera but feel i can use the S24 ultra as a back up. The Fold 6 cameras are good just not as good as on the S24 ultra. I also really like the Square look on the S24 ultra heard the up coming S25 isn\u0027t so square in appearance so would look like every other phone on the market, so bit the bullet, i also got a good deal and reduced my bill, always a good thing.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1013234978",
+            "caption": "Day one  with my Galaxy",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/83e75841-92c9-5ef0-a5bd-50d3d439f000",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/8c1f6393-0e98-5a8f-bef4-a7023e1c71a7",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/3d6b22eb-2782-50ff-bd3d-84f2fab7e1b7"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1177461958,
+            "userName": "Romeo",
+            "lastModificationTime": "3 months ago",
+            "title": "SAMSUNG Galaxy S24 Ultra",
+            "cardText": "The Samsung Galaxy S24 Ultra is a high-end smartphone that excels in display quality, performance, and camera capabilities. It features a 6.8-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, providing vibrant visuals and smooth interactions. The device is powered by either the Exynos 2400 or Qualcomm Snapdragon 8 Gen 3 processor, ensuring top-tier performance, and its versatile camera system includes a 200MP wide sensor, delivering exceptional photo and video quality.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1012120689",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/99811c9c-6f62-5813-b4b0-98225d64d1bf",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/35f04c8b-5144-55d8-8be0-3e34e63980e8",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/425500af-27c4-59b0-9935-90d7384607ff"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1170190075,
+            "userName": "Lexvern",
+            "lastModificationTime": "7 months ago",
+            "title": "Best phone ever and Brand",
+            "cardText": "Phone works marvellously especially for what I got it for most of all which is the camera 100%",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1012120690",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/b63669e9-3162-56fd-b740-bd9acb6541d1",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/eb3074ee-18f0-5df8-afbe-87cfe343f568",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/efa03079-1af9-5fa8-aecc-1f540c4aa899"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1170190075,
+            "userName": "Lexvern",
+            "lastModificationTime": "7 months ago",
+            "title": "Best phone ever and Brand",
+            "cardText": "Phone works marvellously especially for what I got it for most of all which is the camera 100%",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1011999805",
+            "caption": "The case didn\u0027t come with it but the phone is pretty. Rubbish photo bc it\u0027s taken with my 5yr old phone.... don\u0027t judge the camera quality in these pics!!",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/7c1949b6-9877-59a3-9a46-7c0baf02af85",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/bed79470-4b09-53de-a03b-92c7e54b2f9e",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/0d290b0c-d915-531c-8a2c-4371ef71d8f7"
+            }
+          },
+          "review": {
+            "rating": 4,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1169580717,
+            "userName": "Jojo",
+            "lastModificationTime": "7 months ago",
+            "title": "It doesn\u0027t like my face.... but who does ;)",
+            "cardText": "Phone is good, cameras are great. I wasn\u0027t sure on the colour at first, it\u0027s a bit pale but actually it looks better now the case is on and it\u0027s more pastel coloured than childish yellow.... although that option would still be cool!! Have a few problems with fingerprint recognition to log in but that might be due to the protector I\u0027ve put on. Face recognition doesn\u0027t work for me but tbf my face is pretty miserable in the morning so it probably doesn\u0027t think it\u0027s me haha. Mobile data didn\u0027t work the first time I needed it but if you turn airplane mode on and off it sorts it out, well it did for me. You definitely need to get lens protectors for the cameras or they will get damaged really quickly.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1011999806",
+            "caption": "Again that pic is rubbish but also amazing!",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/7458d80c-ed5d-56ac-a249-b7ca299250b8",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/45477842-6375-58f7-9385-be7b2fcbf31d",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/14339191-9cf0-59f9-95c3-3a6d4fd09ab3"
+            }
+          },
+          "review": {
+            "rating": 4,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1169580717,
+            "userName": "Jojo",
+            "lastModificationTime": "7 months ago",
+            "title": "It doesn\u0027t like my face.... but who does ;)",
+            "cardText": "Phone is good, cameras are great. I wasn\u0027t sure on the colour at first, it\u0027s a bit pale but actually it looks better now the case is on and it\u0027s more pastel coloured than childish yellow.... although that option would still be cool!! Have a few problems with fingerprint recognition to log in but that might be due to the protector I\u0027ve put on. Face recognition doesn\u0027t work for me but tbf my face is pretty miserable in the morning so it probably doesn\u0027t think it\u0027s me haha. Mobile data didn\u0027t work the first time I needed it but if you turn airplane mode on and off it sorts it out, well it did for me. You definitely need to get lens protectors for the cameras or they will get damaged really quickly.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1011938050",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/e731d6a0-6437-5f1a-a7f0-73c7ade072b3",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/395f4c15-af73-5bd2-98d7-1585283548ee",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/7a797a35-e4d5-5697-a3d7-658026ee90b5"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1169240787,
+            "userName": "ImBatman",
+            "lastModificationTime": "7 months ago",
+            "title": "Incredible phone.",
+            "cardText": "Upgraded from my Galaxy Z Fold4 \u0026 love it! The design, camera\u0027s \u0026 power are astonishingly good.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1011865595",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/3d57fb05-e138-5dae-9ec6-41f85d81f0d1",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/2ce5ecf9-845c-57f8-9447-021dab4b2582",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/7ac9be9e-6996-5253-9df2-3719b2468f96"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1168879363,
+            "userName": "Lee c",
+            "lastModificationTime": "7 months ago",
+            "title": "S24 ultra",
+            "cardText": "Loving the S24 ultra. I upgraded from the zfold 3 I will miss the center screen on the fold but the s24 ultra is in a completely different league. Extremely powerful phone with lots of customisations.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1011865596",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/4c0dd1bb-2ab4-5ca1-b5cf-61cc1917f7a1",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/0c21b03f-56e0-5613-a7ac-f27aaf3b3350",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/0f51e4dc-de35-5493-96af-01d1ea125a35"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1168879363,
+            "userName": "Lee c",
+            "lastModificationTime": "7 months ago",
+            "title": "S24 ultra",
+            "cardText": "Loving the S24 ultra. I upgraded from the zfold 3 I will miss the center screen on the fold but the s24 ultra is in a completely different league. Extremely powerful phone with lots of customisations.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        },
+        {
+          "photo": {
+            "id": "1011831568",
+            "caption": "null",
+            "sizes": {
+              "normal": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/93c8e711-e2fa-5918-b49f-d33d96d7f634",
+              "thumbnail": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/fcde25bd-6feb-5df8-9067-63dfa1fcafaf",
+              "large": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bzItdGVsZWZvbmljYQ/b888b175-f140-5cbc-9ac6-c979b5048bf0"
+            }
+          },
+          "review": {
+            "rating": 5,
+            "ratingRange": 5,
+            "originallyPostedByLabel": "",
+            "secondaryRatings": [
+              {
+                "name": "ScreenQuality",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "BatteryLife",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "Camera",
+                "value": 5.0,
+                "valueRange": 5
+              },
+              {
+                "name": "EaseOfUse",
+                "value": 5.0,
+                "valueRange": 5
+              }
+            ],
+            "id": 1168658060,
+            "userName": "Anonymous",
+            "lastModificationTime": "8 months ago",
+            "title": "Better design than S22",
+            "cardText": "Having fun with it so far. Just finished migrating from my previous mobile, an S22 Ultra. I love the S24 sleekness and the grip. Hope to explore it in the coming days.",
+            "negativeFeedbackCount": 0,
+            "positiveFeedbackCount": 0
+          }
+        }
+      ]
+    }
+  ]
+}

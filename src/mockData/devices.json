@@ -1,0 +1,30 @@
+{
+  "devices": [
+    {
+      "brand": "Samsung",
+      "name": "Galaxy S25 Ultra 5G",
+      "ProductId": "1SAP312LUN",
+      "defaultOfferingCode": "1SAP312LUN",
+      "skuCode": "1SAP312LUN",
+      "averageRating": 4.9,
+      "image": "https://econtent.o2.co.uk/o/econtent/media/get/3b2f8561-0e63-482a-82ca-44d98b894306",
+      "previewImage": "https://econtent.o2.co.uk/o/econtent/media/get/3b2f8561-0e63-482a-82ca-44d98b894306?imagePreview=true",
+      "averageOverallRating": 4.9,
+      "totalReviewsCount": 21558,
+      "networkTechnology": "5G SA"
+    },
+    {
+      "brand": "Samsung",
+      "name": "Galaxy S24 Ultra 5G",
+      "ProductId": "1SAE32BN",
+      "defaultOfferingCode": "1SAE32BN",
+      "skuCode": "1SAE32BN",
+      "averageRating": 4.7,
+      "image": "https://econtent.o2.co.uk/o/econtent/media/get/ae5404e9-550b-4f4d-89dd-d4a0a7462899",
+      "previewImage": "https://econtent.o2.co.uk/o/econtent/media/get/ae5404e9-550b-4f4d-89dd-d4a0a7462899?imagePreview=true",
+      "averageOverallRating": 4.7,
+      "totalReviewsCount": 10892,
+      "networkTechnology": "5G"
+    }
+  ]
+}

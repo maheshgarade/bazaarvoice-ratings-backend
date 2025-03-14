@@ -1,0 +1,32 @@
+{
+  "featuredReviews": [
+    {
+      "skuCode": "1SAP312LUN",
+      "rating": 5,
+      "ratingRange": 5,
+      "originallyPostedByLabel": "",
+      "secondaryRatings": [],
+      "photos": [],
+      "id": 1182413019,
+      "userName": "Anonymous",
+      "lastModificationTime": "5 days ago",
+      "cardText": "",
+      "negativeFeedbackCount": 0,
+      "positiveFeedbackCount": 1
+    },
+    {
+      "skuCode": "1SAE32BN",
+      "rating": 5,
+      "ratingRange": 5,
+      "originallyPostedByLabel": "",
+      "secondaryRatings": [],
+      "photos": [],
+      "id": 1178196201,
+      "userName": "Anonymous",
+      "lastModificationTime": "a month ago",
+      "cardText": "",
+      "negativeFeedbackCount": 0,
+      "positiveFeedbackCount": 1
+    }
+  ]
+}
