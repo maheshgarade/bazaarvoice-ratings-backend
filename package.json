@@ -6,6 +6,7 @@
     "dev": "nodemon --exec ts-node --require dotenv/config src/server.ts"
   },
   "dependencies": {
+    "@fastify/cors": "^11.0.0",
     "axios": "^1.8.3",
     "dotenv": "^16.4.7",
     "fastify": "^5.2.1",

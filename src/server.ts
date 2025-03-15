@@ -1,4 +1,5 @@
 import Fastify from "fastify";
+import cors from "@fastify/cors";
 import axios from "axios";
 import dotenv from "dotenv";
 import fs from "fs";
@@ -6,6 +7,12 @@ import path from "path";
 
 dotenv.config();
 const fastify = Fastify({ logger: true });
+
+// Enable CORS
+fastify.register(cors, {
+  origin: "http://localhost:3000", // Allow requests only from your frontend
+  methods: ["GET", "POST", "PUT", "DELETE"],
+});
 
 // Global Toggle
 const USE_MOCK = process.env.USE_MOCK === "true";
@@ -45,18 +52,23 @@ fastify.get("/getProducts", async (_, reply) => {
     const response = await axios.get(API_URLS.devices);
     return reply.send(response.data);
   } catch (error) {
+    fastify.log.error("Error fetching device reviews:", error.message);
     return reply.status(500).send({ error: "Failed to fetch device reviews" });
   }
 });
 
-// API 2: Get Featured Reviews by SKU Code (With Pagination)
+// API 2: Get Featured Reviews by SKU Code
 fastify.get("/getFeaturedReviews", async (request, reply) => {
   try {
     const {
       skuCode,
       page = "1",
       limit = "10",
-    } = request.query as { skuCode?: string; page?: string; limit?: string };
+    } = request.query as {
+      skuCode?: string;
+      page?: string;
+      limit?: string;
+    };
     if (!skuCode) return reply.status(400).send({ error: "Missing skuCode" });
 
     if (USE_MOCK) {
@@ -71,20 +83,25 @@ fastify.get("/getFeaturedReviews", async (request, reply) => {
     );
     return reply.send(response.data);
   } catch (error) {
+    fastify.log.error("Error fetching featured reviews:", error.message);
     return reply
       .status(500)
       .send({ error: "Failed to fetch featured reviews" });
   }
 });
 
-// API 3: Get Device Reviews with Images by SKU Code (With Pagination)
+// API 3: Get Reviews with Images by SKU Code
 fastify.get("/getReviewsWithImages", async (request, reply) => {
   try {
     const {
       skuCode,
       page = "1",
       limit = "10",
-    } = request.query as { skuCode?: string; page?: string; limit?: string };
+    } = request.query as {
+      skuCode?: string;
+      page?: string;
+      limit?: string;
+    };
     if (!skuCode) return reply.status(400).send({ error: "Missing skuCode" });
 
     if (USE_MOCK) {
@@ -99,18 +116,23 @@ fastify.get("/getReviewsWithImages", async (request, reply) => {
     );
     return reply.send(response.data);
   } catch (error) {
+    fastify.log.error("Error fetching image reviews:", error.message);
     return reply.status(500).send({ error: "Failed to fetch image reviews" });
   }
 });
 
-// API 4: Get Review List by SKU Code (With Pagination)
+// API 4: Get Review List by SKU Code
 fastify.get("/getReviewList", async (request, reply) => {
   try {
     const {
       skuCode,
       page = "1",
       limit = "10",
-    } = request.query as { skuCode?: string; page?: string; limit?: string };
+    } = request.query as {
+      skuCode?: string;
+      page?: string;
+      limit?: string;
+    };
     if (!skuCode) return reply.status(400).send({ error: "Missing skuCode" });
 
     if (USE_MOCK) {
@@ -125,6 +147,7 @@ fastify.get("/getReviewList", async (request, reply) => {
     );
     return reply.send(response.data);
   } catch (error) {
+    fastify.log.error("Error fetching review list:", error.message);
     return reply.status(500).send({ error: "Failed to fetch review list" });
   }
 });
@@ -133,7 +156,7 @@ fastify.get("/getReviewList", async (request, reply) => {
 const PORT = process.env.PORT ? parseInt(process.env.PORT) : 3003;
 fastify.listen({ port: PORT, host: "0.0.0.0" }, (err, address) => {
   if (err) {
-    console.error("Error starting server:", err);
+    fastify.log.error("Error starting server:", err.message);
     process.exit(1);
   }
   console.log(`Backend running on ${address}`);
