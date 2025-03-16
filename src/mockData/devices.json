@@ -12,12 +12,8 @@
       "averageOverallRating": 4.9,
       "totalReviewsCount": 21558,
       "networkTechnology": "5G SA",
-      "backgroundImages": {
-        "XSmall": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/PA3-xsmall-360-custom-sku-header271224.jpg/02ba138c-3b08-b195-2c20-099f5e2d4af7",
-        "Small": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/PA3-small-360-custom-sku-header271224.jpg/f58dd9fa-4bc7-3d20-c362-f4c01ad06cef",
-        "Medium": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/PA3-medium-360-custom-sku-header271224.jpg/c55d91f7-cdfd-2198-eb78-c07f7e7f5d92",
-        "Large": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/PA3-large-360-custom-sku-header271224.jpg/dd712e07-1223-4227-45c5-35cdd8a1a827"
-      }
+      "backgroundImages": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/PA3-large-360-custom-sku-header271224.jpg/dd712e07-1223-4227-45c5-35cdd8a1a827",
+      "authenticImagePath": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/authentic-review.png/c5e0d8d4-015e-d4c1-e65b-05de08596922"
     },
     {
       "brand": "Samsung",
@@ -31,12 +27,8 @@
       "averageOverallRating": 4.7,
       "totalReviewsCount": 10892,
       "networkTechnology": "5G",
-      "backgroundImages": {
-        "XSmall": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/E3-xsmall-360-custom-sku-header-030124.jpg/2f3d5dbe-0673-ba00-7ba2-f86d629c0bab",
-        "Small": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/E3-small-360-custom-sku-header-030124.jpg/eb63e789-e35e-8fa3-abdc-7c9bf2d84564",
-        "Medium": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/E3-medium-360-custom-sku-header-030124.jpg/853470ac-6500-0b6b-737e-9446b1ad6553",
-        "Large": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/E3-large-360-custom-sku-header-030124.jpg/06cef655-5dd9-d749-afde-ffe0562555bf"
-      }
+      "backgroundImages": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/E3-large-360-custom-sku-header-030124.jpg/06cef655-5dd9-d749-afde-ffe0562555bf",
+      "authenticImagePath": "https://econtent.o2.co.uk/documents/portlet_file_entry/20127/authentic-review.png/c5e0d8d4-015e-d4c1-e65b-05de08596922"
     }
   ]
 }
