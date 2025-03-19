@@ -57,7 +57,38 @@ fastify.get("/getProducts", async (_, reply) => {
   }
 });
 
-// API 2: Get Featured Reviews by SKU Code
+// API 2: Get Product by SKU Code
+fastify.get("/getProductBySku", async (request, reply) => {
+  try {
+    const { skuCode } = request.query as { skuCode?: string };
+
+    // Validate the SKU code
+    if (!skuCode) {
+      return reply.status(400).send({ error: "Missing skuCode" });
+    }
+
+    // Fetch product data from mock or external API
+    if (USE_MOCK) {
+      const devices = loadMockData("devices.json").devices;
+      const product = devices.find((device: any) => device.skuCode === skuCode);
+
+      if (!product) {
+        return reply.status(404).send({ error: "Product not found" });
+      }
+
+      return reply.send(product);
+    }
+
+    // If not using mock data, fetch from an API
+    const response = await axios.get(`${API_URLS.devices}?skuCode=${skuCode}`);
+    return reply.send(response.data);
+  } catch (error) {
+    fastify.log.error("Error fetching product by SKU code:", error.message);
+    return reply.status(500).send({ error: "Failed to fetch product" });
+  }
+});
+
+// API 3: Get Featured Reviews by SKU Code
 fastify.get("/getFeaturedReviews", async (request, reply) => {
   try {
     const {
@@ -90,7 +121,7 @@ fastify.get("/getFeaturedReviews", async (request, reply) => {
   }
 });
 
-// API 3: Get Reviews with Images by SKU Code
+// API 4: Get Reviews with Images by SKU Code
 fastify.get("/getReviewsWithImages", async (request, reply) => {
   try {
     const {
@@ -121,7 +152,7 @@ fastify.get("/getReviewsWithImages", async (request, reply) => {
   }
 });
 
-// API 4: Get Review List by SKU Code
+// API 5: Get Review List by SKU Code
 fastify.get("/getReviewList", async (request, reply) => {
   try {
     const {
